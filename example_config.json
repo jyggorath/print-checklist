@@ -1,0 +1,47 @@
+{
+	"daily": [
+		"Do the dishes",
+		"Feed the cat"
+	],
+	"specific": {
+		"1": null,
+		"2": [
+			"Bring Bob to the weekly Tuesday-apointment"
+		],
+		"3": [
+			"Vacum",
+			"Take out the trash"
+		],
+		"4": null,
+		"5": null,
+		"6": [
+			"Buy groceries",
+			"Buy beer"
+		],
+		"7": [
+			"Print new checklist"
+		]
+	},
+	"translations": {
+		"January": "januar",
+		"February": "februar",
+		"March": "mars",
+		"April": "april",
+		"May": "mai",
+		"June": "juni",
+		"July": "juli",
+		"August": "august",
+		"September": "september",
+		"October": "oktober",
+		"November": "november",
+		"December": "desember",
+		"Monday": "mandag",
+		"Tuesday": "tirsdag",
+		"Wednesday": "onsdag",
+		"Thursday": "torsdag",
+		"Friday": "fredag",
+		"Saturday": "lørdag",
+		"Sunday": "søndag"
+	},
+	"heading": "This is heading. This will be substituted for weekday: DAY. This will be substituted for date in month: DATE. This will be substituted for month: MONTH"
+}
